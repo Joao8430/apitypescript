@@ -1,0 +1,13 @@
+body {
+    margin: auto; /* Remove margens padrão */
+    width: 600px; /* Define a largura da página */
+    padding: 20px; /* Adiciona espaçamento interno */
+    background-color: #0080ff; /* Cor de fundo suave */ 
+}
+
+#user-list div {
+    padding: 10px; /* Espaçamento interno para cada usuário */ 
+    background: #ff00f2; /* Cor de fundo vibrante */
+    margin-bottom: 5px; /* Espaçamento entre os usuários */
+    border-radius: 5px; /* Bordas arredondadas */
+}
